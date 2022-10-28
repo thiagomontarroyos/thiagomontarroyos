@@ -10,8 +10,6 @@
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
  
- <br>
- 
   ### Minhas redes sociais estão logo abaixo
  
 <div>
