@@ -2,8 +2,8 @@
 
 <div>
    <a href="https://github.com/thiagomontarroyos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomontarroyos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomontarroyos&layout=compact&langs_count=6&theme=transparent"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagomontarroyos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomontarroyos&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
 ### Minhas redes sociais estão logo abaixo
