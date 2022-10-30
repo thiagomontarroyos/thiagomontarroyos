@@ -6,7 +6,7 @@
    <img height="223em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomontarroyos&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
 </div>
 
-### Minhas redes sociais estão logo abaixo
+### Minhas redes sociais estão abaixo
 
 <div>
   <a href="https://github.com/thiagomontarroyos" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
